@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\bin\Debug\netcoreapp2.2\WebAPI.Repository.deps.json
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\bin\Debug\netcoreapp2.2\WebAPI.Repository.dll
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\bin\Debug\netcoreapp2.2\WebAPI.Repository.pdb
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\bin\Debug\netcoreapp2.2\WebAPI.Domain.dll
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\bin\Debug\netcoreapp2.2\WebAPI.Domain.pdb
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\obj\Debug\netcoreapp2.2\WebAPI.Repository.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\obj\Debug\netcoreapp2.2\WebAPI.Repository.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\obj\Debug\netcoreapp2.2\WebAPI.Repository.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\obj\Debug\netcoreapp2.2\WebAPI.Repository.csproj.CopyComplete
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\obj\Debug\netcoreapp2.2\WebAPI.Repository.dll
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\obj\Debug\netcoreapp2.2\WebAPI.Repository.pdb
+C:\Users\Rodrigo\source\repos\WebAPI\WebAPI.Repository\obj\Debug\netcoreapp2.2\WebAPI.Repository.csproj.CoreCompileInputs.cache
